@@ -1,6 +1,6 @@
 # Flappy-Bird-remake
 A remake of the 2013 mobile game
-Flappy Bird Remake
+Flappy Bird
 -------------------
 
 This repository contains a remake of the popular Flappy Bird game, implemented in Lua using the [LÖVE](https://love2d.org/) framework. The game faithfully recreates the addictive and challenging gameplay of the original Flappy Bird, where players control a bird and navigate through gaps in the pipes to achieve the highest score possible.
