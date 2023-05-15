@@ -29,7 +29,7 @@ GROUND_SCROLL_SPEED = 60
 function love.load()
     love.graphics.setDefaultFilter('nearest', 'nearest')
 
-    love.window.setTitle('Fucky bird')
+    love.window.setTitle('Flappy bird')
     
     smallFont = love.graphics.newFont('font.ttf', 8)
     mediumFont = love.graphics.newFont('flappy.ttf', 14)
